@@ -1,5 +1,5 @@
 # The Tech Academy Basic C-Sharp Projects
- This repository contains the C# Projects I've created in support of The Tech Academy.
+ These are some small projects I made using C# and .NET Framework
  
 Projects: 
  [Car Insurance](https://github.com/CoderFrancis/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/CarInsurance)
