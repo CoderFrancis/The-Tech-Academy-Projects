@@ -147,7 +147,7 @@ namespace CarInsurance.Controllers
                     baseQuote *= 1.25m;
                 }
 
-                if (insuree.CoverageType.ToString() == "Full")
+                if (insuree.CoverageType)
                 {
                     baseQuote *= 1.5m;
                 }
