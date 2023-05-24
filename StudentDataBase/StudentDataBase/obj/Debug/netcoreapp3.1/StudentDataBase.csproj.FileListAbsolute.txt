@@ -1,0 +1,4 @@
+C:\Users\Mikha\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StudentDataBase\StudentDataBase\obj\Debug\netcoreapp3.1\StudentDataBase.csproj.AssemblyReference.cache
+C:\Users\Mikha\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StudentDataBase\StudentDataBase\obj\Debug\netcoreapp3.1\StudentDataBase.AssemblyInfoInputs.cache
+C:\Users\Mikha\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StudentDataBase\StudentDataBase\obj\Debug\netcoreapp3.1\StudentDataBase.AssemblyInfo.cs
+C:\Users\Mikha\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StudentDataBase\StudentDataBase\obj\Debug\netcoreapp3.1\StudentDataBase.csproj.CoreCompileInputs.cache

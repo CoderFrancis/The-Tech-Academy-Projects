@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zh/T6LzQJfXbv0khUeoqwnZQXT5kcoEYANExJ3Unfeax8deMbUmW3j+vzNoyM7k7ERfSiCW4z2LQ4pfwvhCLKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mikha\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mikha\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.5\\microsoft.entityframeworkcore.analyzers.7.0.5.nupkg.sha512",
+    "C:\\Users\\Mikha\\.nuget\\packages\\microsoft.netcore.platforms\\7.0.2\\microsoft.netcore.platforms.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
