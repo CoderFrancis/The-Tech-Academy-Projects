@@ -1,5 +1,5 @@
 # The Tech Academy Basic C-Sharp Projects
- These are some small projects I made using C# and .NET Framework
+ These are the projects I made using C# and .NET Framework in support of The Tech Academy
  
 Projects: 
  [Car Insurance](https://github.com/CoderFrancis/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/CarInsurance)
