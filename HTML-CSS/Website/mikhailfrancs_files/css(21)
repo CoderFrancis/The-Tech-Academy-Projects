@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Libre Baskerville';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/l/font?kit=kmKnZrc3Hgbbcjq75U4uslyuy4kn0pNbeRoQS4n1oN7KUiFAelU&skey=1ccff9706b4dcbb3&v=v14) format('woff2');
+}

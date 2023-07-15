@@ -1,0 +1,2 @@
+define("@widget/LAYOUT/c/treatmentMaps-549123d2.js",["exports","~/c/Layout"],(function(e,t){"use strict";e.f={center:"center",left:"flex-start",right:"flex-end"}})),"undefined"!=typeof window&&(window.global=window);
+//# sourceMappingURL=treatmentMaps-549123d2.js.map

@@ -1,0 +1,115 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+img {
+    filter: grayscale(20%);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 25px;
+    display: block;
+}
+
+footer  {
+    text-align: center;
+}
+
+p {
+    font-weight: bold;
+}
+
+table, th, td   {
+    border: 1px solid;
+    padding: 0.1%;
+    width: 35%;
+}
+
+th  {
+    background-color: rgb(247, 176, 84);
+}
+
+tr  {
+    background-color: rgb(247, 176, 84);
+}
+
+/* This Container is holding the text Bitcoin in the image of Bitcoin*/
+.centered   {
+    position: relative;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: larger;
+}
+
+.navbar  {
+    overflow: hidden;
+    background-color: rgb(247, 176, 84);
+    position: fixed;
+    top: 0;
+    color: #000000;
+    text-align: center;
+}
+
+.navbar a:hover {
+    background: #ddd;
+    color: black;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    height: 300px;
+    border-radius: 25px;
+    border: 2px solid black;
+}
+
+h2  {
+    color:rgb(0, 0, 0)
+}
+
+p   {
+    color: rgb(0, 0, 0);
+}
+
+p:hover {
+    background: #ddd;
+    color: #000;
+}
+
+.container  {
+    position: relative;
+}
+
+.overlay    {
+    position: relative;
+    top: 0;
+    bottom: auto;
+    left: 0;
+    right: 0;
+    height: 10px;
+    width: 10px;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: rgb(255, 255, 255);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+}
+
+.container:hover .overlay   {
+    opacity: 1;
+}
+
+.text   {
+    color: #ddd;
+    font-size: 20px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+

@@ -1,0 +1,2 @@
+define("@widget/ABOUT/c/overrideSharedMutator-8e9cbeb1.js",["exports","~/c/defaultProps"],(function(e,t){"use strict";const{HELP_WRITE_LINK:o}=t.u;e.o=function(e){let{routes:d,routePaths:i,widgetKeys:n}=e;const r=d[i.CARD],s=r.indexOf(n.CARDS_DESC),u=r.indexOf(o);return s>=0&&-1===u&&r.splice(s+1,0,o),{routes:{[i.CARD]:r},mutatorFields:{[o]:t.t[o]},defaultProps:{[o]:t.d[o]}}}})),"undefined"!=typeof window&&(window.global=window);
+//# sourceMappingURL=overrideSharedMutator-8e9cbeb1.js.map
